@@ -1,0 +1,25 @@
+{
+    "name": "marco polo",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "builder": "*",
+        "Baumeister": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.30",
+        "targetId": "minecraft"
+    },
+    "supportedTargets": [
+        "minecraft"
+    ],
+    "preferredEditor": "blocksprj"
+}
